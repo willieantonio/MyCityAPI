@@ -4,15 +4,17 @@
 
 >Projeto para concluir o Bootcamp da DIO. Criar uma API REST das cidades do Brazil
 > São Listados Paises, Estados do Brasil e suas Cidades. Podem ser feitos buscas por Paises e estados brasileiros.
+
 ###_Tecnologias_
-####Linux
-####Git
-####Java 8
-####Docker
-####IntelliJ Community
-####Heroku CLI
-####
-####Muita vontade de Aprender e desenvolver novas habilidades...
+
+Linux
+Git
+Java 8
+Docker
+IntelliJ Community
+Heroku CLI
+
+Muita vontade de Aprender e desenvolver novas habilidades...
 
 >Informações do GitHub da Aula:
 > https://github.com/andrelugomes/digital-innovation-one/blob/master/cities-api
